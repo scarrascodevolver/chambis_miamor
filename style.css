@@ -183,7 +183,7 @@ body {
     margin-left: -30px;
     margin-right: 20px;
     display: block;
-    margin-top: 60vh;
+    margin-top: 20vh;
     transition: box-shadow 1s ease, margin-top 1s ease;
   }
   
